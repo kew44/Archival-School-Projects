@@ -1,0 +1,11 @@
+C:\Users\Kelsey\Desktop\vb\HealthClub\HealthClub\bin\Debug\HealthClub.exe
+C:\Users\Kelsey\Desktop\vb\HealthClub\HealthClub\bin\Debug\HealthClub.pdb
+C:\Users\Kelsey\Desktop\vb\HealthClub\HealthClub\bin\Debug\HealthClub.xml
+C:\Users\Kelsey\Desktop\vb\HealthClub\HealthClub\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kelsey\Desktop\vb\HealthClub\HealthClub\obj\x86\Debug\HealthClub.frmClubMembership.resources
+C:\Users\Kelsey\Desktop\vb\HealthClub\HealthClub\obj\x86\Debug\HealthClub.Resources.resources
+C:\Users\Kelsey\Desktop\vb\HealthClub\HealthClub\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kelsey\Desktop\vb\HealthClub\HealthClub\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kelsey\Desktop\vb\HealthClub\HealthClub\obj\x86\Debug\HealthClub.exe
+C:\Users\Kelsey\Desktop\vb\HealthClub\HealthClub\obj\x86\Debug\HealthClub.xml
+C:\Users\Kelsey\Desktop\vb\HealthClub\HealthClub\obj\x86\Debug\HealthClub.pdb
