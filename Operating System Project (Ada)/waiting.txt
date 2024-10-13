@@ -1,0 +1,26 @@
+Processes waiting:          25
+Process p02	 arrived at time           1, will enter the Ready Queue at time          10, and will run for          20 ticks, finishing at time          30
+Process p03	 arrived at time           2, will enter the Ready Queue at time          30, and will run for           6 ticks, finishing at time          36
+Process p04	 arrived at time           3, will enter the Ready Queue at time          36, and will run for           8 ticks, finishing at time          44
+Process p05	 arrived at time           4, will enter the Ready Queue at time          44, and will run for          60 ticks, finishing at time         104
+Process p06	 arrived at time           5, will enter the Ready Queue at time         104, and will run for          90 ticks, finishing at time         194
+Process p07	 arrived at time           6, will enter the Ready Queue at time         194, and will run for           7 ticks, finishing at time         201
+Process p08	 arrived at time           7, will enter the Ready Queue at time         201, and will run for          16 ticks, finishing at time         217
+Process p09	 arrived at time           8, will enter the Ready Queue at time         217, and will run for          43 ticks, finishing at time         260
+Process p10	 arrived at time           9, will enter the Ready Queue at time         260, and will run for          27 ticks, finishing at time         287
+Process p11	 arrived at time          10, will enter the Ready Queue at time         287, and will run for          12 ticks, finishing at time         299
+Process p12	 arrived at time          11, will enter the Ready Queue at time         299, and will run for          45 ticks, finishing at time         344
+Process p13	 arrived at time          12, will enter the Ready Queue at time         344, and will run for           2 ticks, finishing at time         346
+Process p14	 arrived at time          13, will enter the Ready Queue at time         346, and will run for           5 ticks, finishing at time         351
+Process p15	 arrived at time          14, will enter the Ready Queue at time         351, and will run for          10 ticks, finishing at time         361
+Process p16	 arrived at time          15, will enter the Ready Queue at time         361, and will run for           9 ticks, finishing at time         370
+Process p17	 arrived at time          16, will enter the Ready Queue at time         370, and will run for           7 ticks, finishing at time         377
+Process p18	 arrived at time          17, will enter the Ready Queue at time         377, and will run for          21 ticks, finishing at time         398
+Process p19	 arrived at time          18, will enter the Ready Queue at time         398, and will run for          32 ticks, finishing at time         430
+Process p20	 arrived at time          19, will enter the Ready Queue at time         430, and will run for          69 ticks, finishing at time         499
+Process p21	 arrived at time          20, will enter the Ready Queue at time         499, and will run for          48 ticks, finishing at time         547
+Process p22	 arrived at time          21, will enter the Ready Queue at time         547, and will run for          15 ticks, finishing at time         562
+Process p23	 arrived at time          22, will enter the Ready Queue at time         562, and will run for          19 ticks, finishing at time         581
+Process p24	 arrived at time          23, will enter the Ready Queue at time         581, and will run for           3 ticks, finishing at time         584
+Process p25	 arrived at time          24, will enter the Ready Queue at time         584, and will run for           1 ticks, finishing at time         585
+Process p26	 arrived at time          25, will enter the Ready Queue at time         585, and will run for           8 ticks, finishing at time         593

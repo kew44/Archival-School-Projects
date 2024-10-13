@@ -1,0 +1,6 @@
+Interrupt PRGC Occured at          12 to          14
+State has been changed from I to H
+An unexpected error has occured. Please contact Sys. Admin.
+Interrupt IOCD Occured at          15 to          17
+State has been changed from I to H
+I/O
